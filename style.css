@@ -1,0 +1,45 @@
+nav#location-role{
+  background-color: #272727;
+  height:100px;
+  padding: 0 5% 0 5%;
+
+}
+nav#location-role>div:first-child{
+  float: left;
+  padding-top: 2em;
+}
+nav#location-role>div{
+  float: right;
+  padding-top: 2em;
+  color: white;
+}
+nav#location-role>div>ul>li,
+nav#location-role h3,
+nav#location-role .logo{
+  float: left;
+}
+nav#location-role small{
+  display: block; /* show as block */
+}
+nav#location-role>a{
+  color: white;
+}
+nav#location-role>div>a,
+nav#location-role>div>ul>li>a>i{
+  color:white;
+}
+h3>a{
+  color:white;
+}
+nav#location-role>div>a>img{
+  padding-right: 10px;
+}
+nav#location-role>div:last-child{
+  padding-right: 50px;
+}
+nav#location-role>div:nth-child(3)>ul>li{
+  padding-left: 20px;
+}
+nav#location-role>div:nth-child(2)>ul>li{
+  padding-left: 40px;
+}
